@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>445933114528-csm6up58mog1hvpnldbdumepk1nveodq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.445933114528-csm6up58mog1hvpnldbdumepk1nveodq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>445933114528-gr1k2l0lfo8gv11tsoct8531ne54palo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9_yXzPHaYDKB65dHEhPwSsW-KGkr_rWU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445933114528</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>asimak4-yahoo.com.everybodyeats</string>
+	<key>PROJECT_ID</key>
+	<string>everybodyeats-95ffa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>everybodyeats-95ffa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445933114528:ios:58c410c55c71d7a155a5c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://everybodyeats-95ffa.firebaseio.com</string>
+</dict>
+</plist>
